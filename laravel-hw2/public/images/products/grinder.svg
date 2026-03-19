@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+  <rect width="300" height="200" fill="#f1f5f9"/>
+  <!-- Body -->
+  <ellipse cx="150" cy="95" rx="55" ry="35" fill="#16a34a" transform="rotate(-15 150 95)"/>
+  <!-- Grip -->
+  <rect x="125" y="115" width="30" height="50" rx="5" fill="#15803d"/>
+  <!-- Guard -->
+  <path d="M85 70 Q75 50 95 50 L95 70" fill="#475569"/>
+  <!-- Disc -->
+  <circle cx="80" cy="80" r="30" fill="none" stroke="#94a3b8" stroke-width="3"/>
+  <circle cx="80" cy="80" r="5" fill="#94a3b8"/>
+  <!-- Switch -->
+  <rect x="155" y="82" width="15" height="8" rx="2" fill="#0f172a"/>
+  <text x="150" y="190" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#64748b">Болгарка</text>
+</svg>

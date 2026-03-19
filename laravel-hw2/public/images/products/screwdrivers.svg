@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+  <rect width="300" height="200" fill="#f1f5f9"/>
+  <!-- Screwdriver 1 (Phillips) -->
+  <rect x="60" y="115" width="10" height="50" rx="3" fill="#dc2626"/>
+  <rect x="63" y="70" width="4" height="50" fill="#94a3b8"/>
+  <line x1="65" y1="70" x2="62" y2="62" stroke="#94a3b8" stroke-width="1.5"/>
+  <line x1="65" y1="70" x2="68" y2="62" stroke="#94a3b8" stroke-width="1.5"/>
+  <!-- Screwdriver 2 (Flat) -->
+  <rect x="90" y="115" width="10" height="50" rx="3" fill="#2563eb"/>
+  <rect x="93" y="70" width="4" height="50" fill="#94a3b8"/>
+  <rect x="91" y="62" width="8" height="4" rx="1" fill="#94a3b8"/>
+  <!-- Screwdriver 3 (Phillips small) -->
+  <rect x="120" y="125" width="8" height="40" rx="3" fill="#16a34a"/>
+  <rect x="122" y="85" width="4" height="44" fill="#94a3b8"/>
+  <line x1="124" y1="85" x2="121" y2="79" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="124" y1="85" x2="127" y2="79" stroke="#94a3b8" stroke-width="1"/>
+  <!-- Screwdriver 4 (Flat small) -->
+  <rect x="148" y="125" width="8" height="40" rx="3" fill="#eab308"/>
+  <rect x="150" y="85" width="4" height="44" fill="#94a3b8"/>
+  <rect x="148" y="79" width="8" height="3" rx="1" fill="#94a3b8"/>
+  <!-- Screwdriver 5 -->
+  <rect x="178" y="120" width="9" height="45" rx="3" fill="#7c3aed"/>
+  <rect x="181" y="78" width="3" height="46" fill="#94a3b8"/>
+  <rect x="179" y="72" width="7" height="3" rx="1" fill="#94a3b8"/>
+  <!-- Screwdriver 6 -->
+  <rect x="207" y="130" width="7" height="35" rx="3" fill="#f97316"/>
+  <rect x="209" y="95" width="3" height="40" fill="#94a3b8"/>
+  <line x1="210.5" y1="95" x2="208" y2="89" stroke="#94a3b8" stroke-width="1"/>
+  <line x1="210.5" y1="95" x2="213" y2="89" stroke="#94a3b8" stroke-width="1"/>
+  <text x="150" y="190" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#64748b">Набор отвёрток</text>
+</svg>

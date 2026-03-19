@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+  <rect width="300" height="200" fill="#f1f5f9"/>
+  <!-- Level body -->
+  <rect x="30" y="80" width="240" height="30" rx="4" fill="#f59e0b"/>
+  <rect x="35" y="85" width="230" height="20" rx="2" fill="#fbbf24"/>
+  <!-- Center bubble -->
+  <rect x="120" y="82" width="60" height="26" rx="4" fill="#fff" stroke="#92400e" stroke-width="1.5"/>
+  <circle cx="150" cy="95" r="7" fill="#22c55e" opacity="0.6"/>
+  <!-- Left bubble -->
+  <rect x="55" y="85" width="35" height="20" rx="4" fill="#fff" stroke="#92400e" stroke-width="1"/>
+  <circle cx="72" cy="95" r="5" fill="#22c55e" opacity="0.5"/>
+  <!-- Right bubble -->
+  <rect x="210" y="85" width="35" height="20" rx="4" fill="#fff" stroke="#92400e" stroke-width="1"/>
+  <circle cx="227" cy="95" r="5" fill="#22c55e" opacity="0.5"/>
+  <!-- Ruler marks -->
+  <line x1="40" y1="108" x2="40" y2="114" stroke="#92400e" stroke-width="1"/>
+  <line x1="60" y1="108" x2="60" y2="114" stroke="#92400e" stroke-width="1"/>
+  <line x1="80" y1="108" x2="80" y2="114" stroke="#92400e" stroke-width="1"/>
+  <line x1="100" y1="108" x2="100" y2="114" stroke="#92400e" stroke-width="1"/>
+  <line x1="200" y1="108" x2="200" y2="114" stroke="#92400e" stroke-width="1"/>
+  <line x1="220" y1="108" x2="220" y2="114" stroke="#92400e" stroke-width="1"/>
+  <line x1="240" y1="108" x2="240" y2="114" stroke="#92400e" stroke-width="1"/>
+  <line x1="260" y1="108" x2="260" y2="114" stroke="#92400e" stroke-width="1"/>
+  <text x="150" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#64748b">Уровень</text>
+</svg>

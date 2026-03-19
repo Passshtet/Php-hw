@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+  <rect width="300" height="200" fill="#f1f5f9"/>
+  <!-- Handle -->
+  <rect x="90" y="95" width="120" height="16" rx="4" fill="#92400e" transform="rotate(-35 150 103)"/>
+  <!-- Head -->
+  <rect x="175" y="52" width="60" height="28" rx="4" fill="#475569"/>
+  <!-- Head claw -->
+  <path d="M235 56 L255 42 L250 50 L240 56" fill="#475569"/>
+  <text x="150" y="185" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#64748b">Молоток</text>
+</svg>
